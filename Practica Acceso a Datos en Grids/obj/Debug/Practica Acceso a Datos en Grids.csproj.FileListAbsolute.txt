@@ -1,0 +1,11 @@
+C:\Users\Rolando Contreras\source\repos\Practica Acceso a Datos en Grids\bin\Debug\Practica Acceso a Datos en Grids.exe.config
+C:\Users\Rolando Contreras\source\repos\Practica Acceso a Datos en Grids\bin\Debug\Practica Acceso a Datos en Grids.exe
+C:\Users\Rolando Contreras\source\repos\Practica Acceso a Datos en Grids\bin\Debug\Practica Acceso a Datos en Grids.pdb
+C:\Users\Rolando Contreras\source\repos\Practica Acceso a Datos en Grids\obj\Debug\Practica Acceso a Datos en Grids.csproj.AssemblyReference.cache
+C:\Users\Rolando Contreras\source\repos\Practica Acceso a Datos en Grids\obj\Debug\Practica Acceso a Datos en Grids.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rolando Contreras\source\repos\Practica Acceso a Datos en Grids\obj\Debug\Practica_Acceso_a_Datos_en_Grids.Form1.resources
+C:\Users\Rolando Contreras\source\repos\Practica Acceso a Datos en Grids\obj\Debug\Practica_Acceso_a_Datos_en_Grids.Properties.Resources.resources
+C:\Users\Rolando Contreras\source\repos\Practica Acceso a Datos en Grids\obj\Debug\Practica Acceso a Datos en Grids.csproj.GenerateResource.cache
+C:\Users\Rolando Contreras\source\repos\Practica Acceso a Datos en Grids\obj\Debug\Practica Acceso a Datos en Grids.csproj.CoreCompileInputs.cache
+C:\Users\Rolando Contreras\source\repos\Practica Acceso a Datos en Grids\obj\Debug\Practica Acceso a Datos en Grids.exe
+C:\Users\Rolando Contreras\source\repos\Practica Acceso a Datos en Grids\obj\Debug\Practica Acceso a Datos en Grids.pdb
